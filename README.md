@@ -37,3 +37,4 @@ Spam messages pose security risks and reduce user trust. This project demonstrat
 ```bash
 pip install -r requirements.txt
 python spam_mail_detector.py
+<!-- Project finalized and ready for portfolio showcase -->
